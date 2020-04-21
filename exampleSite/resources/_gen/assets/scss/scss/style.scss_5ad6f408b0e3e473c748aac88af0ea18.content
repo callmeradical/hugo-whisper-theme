@@ -7402,7 +7402,8 @@ p {
           font-weight: bold;
           color: #ffffff; }
         .sub-footer .sub-footer-inner ul li.zerostatic a {
-          color: lightblue; }
+          color: #333;
+          font-weight: bold; }
       @media (min-width: 576px) {
         .sub-footer .sub-footer-inner ul li {
           display: inline-block;
