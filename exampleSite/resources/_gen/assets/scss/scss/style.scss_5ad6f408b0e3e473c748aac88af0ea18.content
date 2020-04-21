@@ -7386,7 +7386,7 @@ p {
         color: #333;
         font-size: 0.9rem;
         line-height: 1.8;
-        font-weight: bold; }
+        font-weight: light; }
         .sub-footer .sub-footer-inner ul li strong {
           font-weight: bold;
           color: #ffffff; }
@@ -7402,7 +7402,7 @@ p {
           font-weight: bold;
           color: #ffffff; }
         .sub-footer .sub-footer-inner ul li.zerostatic a {
-          color: #333; }
+          color: lightblue; }
       @media (min-width: 576px) {
         .sub-footer .sub-footer-inner ul li {
           display: inline-block;

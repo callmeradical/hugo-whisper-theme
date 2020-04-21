@@ -23,7 +23,7 @@
         color: #333;
         font-size: 0.9rem;
         line-height: 1.8;
-        font-weight: bold;
+        font-weight: light;
         strong {
           font-weight: bold;
           color: #ffffff;
@@ -45,6 +45,7 @@
         &.zerostatic {
           a {
             color: #333;
+            font-weight: bold:
           }
         }
       }
