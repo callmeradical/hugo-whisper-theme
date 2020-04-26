@@ -12,6 +12,12 @@ pygmentsUseClasses = true
 # See https://gohugo.io/content-management/summaries/
 summaryLength = 30
 
+[markup]
+  [markup.tableOfContents]
+      ordered = false
+      startLevel = 2
+      endLevel = 2
+
 [[menu.main]]
     name = "Home"
     url = "/"
